@@ -1,0 +1,1 @@
+alert('Möchten Sie dieses Mitglied entfernen?')

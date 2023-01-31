@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8dc25e60-97b2-4223-a419-5b3976b49640" name="abgabe" url="http://abgabe.cleanman187.de/public/index.php">
+        <fileTransfer accessType="SFTP" host="access940078422.webspace-data.io" port="22" sshConfigId="94fbf4ee-89d7-4122-93e2-1ca92ad63dff" sshConfig="u1179331461@access940078422.webspace-data.io:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
